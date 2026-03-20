@@ -97,3 +97,14 @@ section {
 .vertical-section {
     margin-bottom: 40px;
 }
+
+.horizontal-section{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+.horizontal-item{
+    flex: 1;
+}
