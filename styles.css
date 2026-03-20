@@ -88,6 +88,15 @@ h4 {
     margin-bottom: 15px;
 }
 
+.center-image {
+    width: 450px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
 /* Section Layout */
 section {
     width: 100%;
