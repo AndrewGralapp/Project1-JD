@@ -108,3 +108,34 @@ section {
 .horizontal-item{
     flex: 1;
 }
+
+footer{
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: auto;
+}
+
+.footer-links{
+    display: flex;
+    justify-content: center;
+    gap: 20px
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
